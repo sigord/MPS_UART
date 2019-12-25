@@ -1,0 +1,10 @@
+main.c:79:5:main	32	static
+main.c:200:6:SystemClock_Config	96	static
+main.c:244:13:MX_USART1_UART_Init	8	static
+main.c:279:13:MX_GPIO_Init	48	static
+main.c:301:6:IsON	16	static
+main.c:305:6:IsOFF	16	static
+main.c:309:6:IsFR	16	static
+main.c:313:6:IsQ	16	static
+main.c:317:8:Number	32	static
+main.c:336:6:Error_Handler	8	static
