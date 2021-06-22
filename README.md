@@ -5,3 +5,5 @@ Subject "Microprocessor systems" Coursework “Interrupt priority. Implementatio
 Дисциплина "Микропроцессорные системы". Курсовая работа “Приоритет прерываний. Реализация управления диодом через терминал”.
 
 Configurable frequency and number of flashes through the console on the STM32F031K6T6 board.
+
+2019
